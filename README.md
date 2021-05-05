@@ -9,7 +9,7 @@ Designed by Mike Kushnerik (MKE) in KiCad V5
 
 # Gerber View
 
-![PCB](graduation_cap_gerber.png)
+![PCB](graduation_cap_gerber.PNG)
 
 # License
 
