@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74HC595
+D IC 8-BIT SHIFT REGISTER 16-DIP
+$ENDCMP
+#
+#End Doc Library

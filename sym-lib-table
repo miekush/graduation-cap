@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Reaction Time Game")(type Legacy)(uri "C:/Users/Mike/Documents/Reaction Time Game/Reaction Time Game/Reaction Time Game.lib")(options "")(descr ""))
+  (lib (name Graduation_Cap)(type Legacy)(uri ${KIPRJMOD}/Graduation_Cap.lib)(options "")(descr ""))
+)
