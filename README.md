@@ -5,11 +5,17 @@ This is a pretty simple LED Graduation cap reference design I made for the upcom
 
 ![CAP](graduation_cap.jpg)
 
-Designed by Mike Kushnerik (MKE) in KiCad V5
-
 # Gerber View
 
 ![PCB](graduation_cap_gerber.PNG)
+
+# Tassel Holder
+
+![TASSEL](tassel_holder.PNG)
+
+Unfortunatly I wasn't able to get good measurements of the original button that holds the tassel on top of the cap prior to designing the PCB, so the hole I added for it to pass through ended up being too small :cry:. To remedy this, I designed a glue-in 3D printable loop to tie the tassel around. Definitely not ideal but it works great for what it is! Check out the Tassel Holder folder for the solidworks design file and stl!
+
+Designed by Mike Kushnerik (MKE) in KiCad V5
 
 # License
 
