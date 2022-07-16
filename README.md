@@ -1,7 +1,7 @@
 # Graduation Cap
 A simple LED sequencer based Graduation Cap
 
-This is a pretty simple LED Graduation cap reference design I made for the upcoming graduation cemermony of my BSEE! It's circuit is based on my [N-Output Sequencer](https://github.com/mkengineering/N_Output_Sequencer) reference design and could be easily modified for other students to use in their own ceremony.
+This is a pretty simple LED Graduation cap reference design I made for the upcoming graduation ceremony of my BSEE! It's circuit is based on my [N-Output Sequencer](https://github.com/mkengineering/N_Output_Sequencer) reference design and could be easily modified for other students to use in their own ceremony.
 
 ![CAP](graduation_cap.jpg)
 
